@@ -18,6 +18,7 @@ I combine product thinking with analytical depth to solve real business problems
 ### 1. 🏦 LIT Mobile App – Digital Banking  
 **Role:** Product Owner  
 **Org:** First Bank of Nigeria (Digital Innovation Lab)
+
 **Stack:** MS Azure, Figma, Agile, API Integrations  
 
 **Overview**  
