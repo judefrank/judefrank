@@ -149,7 +149,7 @@ Hands-on training programs in SQL, Excel, and data analysis fundamentals.
 
 - 📧 Email: [judef.onyekachi@gmail.com](mailto:judef.onyekachi@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/jude-frank-917b15a9](https://linkedin.com/in/jude-frank-917b15a9)
-- 📁 Resume: [Download PDF](#) _(Upload your CV to GitHub and link it here)_
+- 📁 Resume: [Download PDF](https://github.com/judefrank/judefrank/blob/main/Jude%20Onyekachi%20Frank%20CV.pdf)
 
 <!--- 🌐 Portfolio: [judeofrank.vzy.io](https://judeofrank.vzy.io) --> 
 
