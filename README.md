@@ -1,4 +1,4 @@
-# 👋 Jude Frank – Product Owner | Data Analyst  
+# 👋 Jude Frank – Data Analyst | Product Owner 
 
 🚀 Driving innovation with data-driven product strategies.
 
