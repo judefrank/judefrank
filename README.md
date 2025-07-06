@@ -2,6 +2,7 @@
 
 🚀 Driving innovation with data-driven product strategies.
 
+📁 [CV](https://github.com/judefrank/judefrank/blob/main/Jude%20Onyekachi%20Frank%20CV.pdf)
 ---
 
 ## 🌟 About Me
